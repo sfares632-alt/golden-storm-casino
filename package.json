@@ -1,0 +1,16 @@
+{
+  "name": "golden-storm-casino",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Golden Storm Casino offline Android wrapper",
+  "scripts": {
+    "build": "node -e \"console.log('Static game assets are in www/')\""
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

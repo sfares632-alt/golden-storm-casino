@@ -1,0 +1,8 @@
+{
+  "appId": "com.goldenstormcasino.app",
+  "appName": "Golden Storm Casino",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
